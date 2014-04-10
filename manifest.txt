@@ -1,0 +1,2 @@
+Main-Class: PayrollSystem
+Class-Path: lib/mysql.jar lib/balloontip-1.2.4.1.jar lib/jxl.jar lib/sliding-layout.jar lib/sliding-layout-sources.jar lib/timingframework-classic-1.1.jar lib/trident.jar lib/tween-engine-api.jar lib/tween-engine-api-sources.jar lib/AnimatedTransitions.jar
